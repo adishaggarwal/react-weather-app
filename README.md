@@ -1,5 +1,5 @@
 
-# TASK MANAGER
+# WEATHER APP
 This is a simple weather application in which you can see weather of five different places.
 You can search any place in the world.
 It fetches data from openweathermap.org.
